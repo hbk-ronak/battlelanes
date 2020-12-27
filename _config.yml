@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Nexus
-description: A Card Game
+title: Battle Lanes
+description: A Board Game
 plugins:
   - jekyll-seo-tag
