@@ -25,18 +25,12 @@ Phases of Each Player's turn:
 ### Battle Rules:
 
 1. Minion vs Minion:
-
-  * Roll dies = the number of minions you have on the square you keep rolling till the you've destroyed all your enemy's Die
+	* Roll dies = the number of minions you have on the square you keep rolling till the you've destroyed all your enemy's Die
 (similar to Risk)
-
 2. Minion vs Champion:
-
-  * Champion holder rolls 1 additional die if the champion dies he's spawned by giving resources
-
+	* Champion holder rolls 1 additional die if the champion dies he's spawned by giving resources
 3. Champion vs Champion:
-
-  * Players roll the die equal to the level of the champion (Levels 1-5)
-
+	* Players roll the die equal to the level of the champion (Levels 1-5)
 4. Champion vs Castle:
 
   * Castle always have 6 dies: But Loss of die is permanent
